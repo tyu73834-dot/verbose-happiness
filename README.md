@@ -2,7 +2,11 @@
 
 面向英语市场的 AI 东方玄幻竖屏漫剧项目。
 
-本仓库保存项目策划、剧本、视觉设定与制作资产。项目规划见 [项目企划书](docs/PROJECT_BRIEF_CN.md)。
+本仓库保存项目策划、剧本、视觉设定与制作资产。
+
+- [项目企划书](docs/PROJECT_BRIEF_CN.md)
+- [男主角色设定与出图提示词](docs/CHARACTER_XIAO_JIN_CN.md)
+- [第一集剧本与分镜](docs/EP01_SCRIPT_STORYBOARD_CN.md)
 
 ## 当前阶段
 
