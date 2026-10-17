@@ -1,0 +1,8 @@
+# Codex workspace artifacts
+work/
+outputs/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
